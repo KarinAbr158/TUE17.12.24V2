@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TUE17.12.24</string>
+    <string name="play_gallery">
+        <item>Play Button</item>
+        <item>Pause Button</item>
+        <item>Next Button</item>
+        <item>Previous Button</item>
+    </string>
+</resources>
